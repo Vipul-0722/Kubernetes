@@ -14,3 +14,4 @@
 1. [Kubeadm Installation Guide](./kubeadm_installation.md)
 2. [Minikube Installation Guide](./minikube_installation.md)
 3. [EKS Installation Guide](./eks_cluster_setup.md)
+4. [KIND Installation Guide] (https://kind.sigs.k8s.io/docs/user/quick-start/)
